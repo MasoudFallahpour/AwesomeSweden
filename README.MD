@@ -15,6 +15,7 @@ Here is the list of companies that support work visa sponsorship and relocation 
 - [Telenor](https://www.telenor.se)
 - [Trucaller](https://www.truecaller.com) 
 - [Utopia Music](https://utopiamusic.com)
+- [Tradera](https://www.tradera.com/)
 
 ## Disclaimer
 
