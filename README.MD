@@ -13,7 +13,7 @@ Here is the list of companies that support work visa sponsorship and relocation 
 - [Spotify](https://www.spotify.com)
 - [Tele2](https://www.tele2.se)
 - [Telenor](https://www.telenor.se)
-- [Trucaller](https://www.truecaller.com) 
+- [Truecaller](https://www.truecaller.com) 
 - [Utopia Music](https://utopiamusic.com)
 - [Tradera](https://www.tradera.com/)
 
