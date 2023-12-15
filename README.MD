@@ -16,6 +16,7 @@ Here is the list of companies that support work visa sponsorship and relocation 
 - [Truecaller](https://www.truecaller.com) 
 - [Utopia Music](https://utopiamusic.com)
 - [Tradera](https://www.tradera.com/)
+- [LeoVegas](https://www.leovegas.com/)
 
 ## Disclaimer
 
