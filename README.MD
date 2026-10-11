@@ -18,6 +18,15 @@ Here is the list of companies that support work visa sponsorship and relocation 
 - [Tradera](https://www.tradera.com/)
 - [LeoVegas](https://www.leovegas.com/)
 
+
+## Job boards
+
+Boards that help find tech roles with visa sponsorship or relocation signals (verify current Sweden eligibility on each posting):
+
+- [Jaabz](https://jaabz.com/) — Tech jobs with visa sponsorship, relocation, and remote filters
+- [Relocate.me](https://relocate.me/) — Relocation-focused tech jobs
+- [Landing.jobs](https://landing.jobs/) — Europe tech jobs with visa/work-permit filter
+
 ## Disclaimer
 
 A company's policy on sponsoring work visas may change. This means that a company listed above may not support work visa sponsorship anymore or a company not listed above may support work visa sponsorship. So the above list is not exhaustive at all and may not be %100 accurate but every effort is made to keep it as accurate as possible.
